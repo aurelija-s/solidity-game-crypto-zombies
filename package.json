@@ -1,0 +1,21 @@
+{
+  "name": "cryptozombies",
+  "version": "1.0.0",
+  "description": "solidity crypto zombies game",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aurelija-s/solidity-game-crypto-zombies"
+  },
+  "keywords": [
+    "solidity",
+    "web3"
+  ],
+  "author": "aurelija.sukeviciute@gmail.com",
+  "license": "ISC"
+}
